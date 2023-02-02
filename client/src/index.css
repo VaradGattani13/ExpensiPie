@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.content{
+  /* min-height: ;
+  he */
+  height: 80vh;
+}
+
+.navbar{
+ background-color: aqua !important;
+ color: purple;
+}
+.register-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  
+
+}
